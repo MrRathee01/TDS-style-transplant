@@ -1,0 +1,8 @@
+{
+  "prompt": "A macro photograph of an authentic 8th-century Insular illuminated manuscript on aged, textured vellum. The composition features a horizontal sequence of three intricate circular medallions. Rendered with thick iron-gall ink outlines and flat historical pigments: verdigris green, lapis lazuli, and red lead. Flawless topological rigor is visually prioritized: every single ribbon intersection perfectly alternates \"over, then under\" without exception, with no amorphous merging. A continuous horizontal ribbon flows left to right through the three medallions. Inside each medallion, it forms a tight, unbroken looping knot. To complete the architecture, a distinct vertical ribbon enters the bottom of each medallion, and another exits the top, both weaving flawlessly into the central knot's over-under sequence. The background features extreme horror vacui, packed with zoomorphic elongated hounds whose limbs, heads, and tails resolve logically and clearly without melting into abstract filler. No modern symbols, digital effects, or text. Strictly historical visual grammar.",
+  "model": "DALL·E 3",
+  "concept": "Recurrent Neural Networks (RNN)",
+  "tradition_name": "Insular Manuscript Illumination (Celtic Knotwork)",
+  "tradition_period": "8th Century (c. 700–800 CE)",
+  "tradition_approach": "Applies strict 'over-under' alternating topological rules. A continuous horizontal ribbon (hidden state) weaves through circular knots, intersecting with distinct vertical input/output ribbons, perfectly mirroring an unrolled RNN architecture."
+}
